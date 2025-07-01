@@ -1,1 +1,187 @@
 # B-TECH_PROJECTS
+
+# SATYABAMA BE CSE Project Reports - Phase 2 (Dec 2022 - Apr 2023)
+
+---
+
+## Overview
+
+This repository contains a collection of Project Phase-2 reports submitted by Bachelor of Engineering (Computer Science and Engineering) students of **Sathyabama Institute of Science and Technology**. These reports cover projects undertaken during the period of **December 2022 to April 2023**.
+
+---
+
+## Source of Reports
+
+**Important Note:** The project reports included in this repository were collected from the official Sathyabama website. At the time of collection, these documents were publicly accessible and available in the public domain on the university's online platform.
+
+---
+
+## Included Reports
+
+This section provides a detailed list of all project reports included in this repository, along with their associated metadata extracted from the source.
+
+| S.No | File Name | Project Title | Student(s) | Roll Number(s) | Status |
+|---|---|---|---|---|---|
+| 1 | b.e-cse-batch-101.pdf | A DEEP LEARNING MODEL FOR DETECTING ONLINE FRAUD | HARIPRIYA P S P (Reg.No - 39110174) | 39110174 | TRUE |
+| 2 | b.e-cse-batch-102.pdf | BUILDING A CHATBOT FOR HEALTHCARE USING NLP | BRUCE KEVIN (Reg.No - 39110177) | 39110177 | TRUE |
+| 3 | b.e-cse-batch-103.pdf | SMART PARKING | SARANRAJ M (Reg.No - 39110183) | 39110183 | TRUE |
+| 4 | b.e-cse-batch-104.pdf | MEDICHAT | SUBASH CHANDRA BOSE K (Reg.No - 39110187) | 39110187 | TRUE |
+| 5 | b.e-cse-batch-105.pdf | MACHINE LEARNING BASED DETECTION AND | BALROOPRAKASH KUMAR (Reg.No - 39110117) | 39110117 | TRUE |
+| 6 | b.e-cse-batch-106.pdf | DEEP LEARNING BASED RECOMMENDATION SYSTEM FOR NUTRITIONAL GUIDE | AKASH KUMAR SINGH (Reg.No - 39110134) | 39110134 | TRUE |
+| 7 | b.e-cse-batch-107.pdf | Diabetic Retinopathy Detection using Image Processing and Deep | BHARATH KUMAR (Reg.No - 39110135) | 39110135 | TRUE |
+| 8 | b.e-cse-batch-108.pdf | Road Lane Detection using Image Processing and Deep | GURUDHVA A (39110156) | 39110156 | TRUE |
+| 9 | b.e-cse-batch-109.pdf | PLANT LEAF DISEASE DETECTION THROUGH | ABHISHEK R (Reg.No - 39110166) | 39110166 | TRUE |
+| 10 | b.e-cse-batch-110.pdf | ANOMALY DETECTION AND DETECTION OF | YAMINI V (Reg.No - 39110168) and E.Manoj (Reg.No - 39110171) | 39110168, 39110171 | TRUE |
+| 11 | b.e-cse-batch-111.pdf | MALICIOUS WEBSITE DETECTION | SUDHIR M (39110008) and Gokul Sharma (Reg.No - 39110227) who carried out | 39110008, 39110227 | TRUE |
+| 12 | b.e-cse-batch-112.pdf | A SMART WEED REMOVER WITH DEEP LEARNING WITH | SUBASH M (Reg.No - 39110237) and D.Sasi Kumar Reddy (39110255) | 39110237, 39110255 | TRUE |
+| 13 | b.e-cse-batch-113.pdf | CREDIT CARD FRAUD DETECTION WITH DEEP FACE | JAYAVARDHAN M (Reg.No - 39110744) and Abhiram M (Reg.No - 39110781) who | 39110744, 39110781 | TRUE |
+| 14 | b.e-cse-batch-114.pdf | JOB RECOMMENDATION | Saroj P (Reg.No - 39110774) and Aravind Kumar B (Reg.No - 39110777) | 39110774, 39110777 | TRUE |
+| 15 | b.e-cse-batch-115.pdf | HEART FAILURE PREDICTION USING ML | DHANUSH S (Reg.No - 39110825) and S. Prasanth (39110842) | 39110825, 39110842 | TRUE |
+| 16 | b.e-cse-batch-116.pdf | STUDENT'S ACADEMIC PERFORMANCE | MANISH KUMAR G (Reg.No - 39110846) | 39110846 | TRUE |
+| 17 | b.e-cse-batch-117.pdf | "CRIMINAL IDENTIFICATION AND WEAPON DETECTION" | ABHISHEK REDDY Yaddireddy (Reg.No - 39110007) | 39110007 | TRUE |
+| 18 | b.e-cse-batch-118.pdf | DIABETIC RETINOPATHY DETECTION USING DEEP LEARNING | NIKHIL KUMAR SINGH (Reg.No - 39110041) | 39110041 | TRUE |
+| 19 | b.e-cse-batch-119.pdf | ALZHEIMER'S DISEASE PREDICTION USING CONVOLUTIONAL | HARSH KUMAR SINGH (Reg.No - 39110091) | 39110091 | TRUE |
+| 20 | b.e-cse-batch-120.pdf | "PERSONAL NUTRITIONIST DIET RECOMMENDATION | LLEVIN MCLESH M (Reg.No - 39110097) hereby declare that the Project titled | 39110097 | TRUE |
+| 21 | b.e-cse-batch-121.pdf | CYBERBULLYING DETECTION USING MACHINE LEARNING | P CHAKRADHAR REDDY (Reg.No - 39110108) | 39110108 | TRUE |
+| 22 | b.e-cse-batch-122.pdf | PNEUMONIA PREDICTION USING CNN ARCHITECTURE AND | PRABHU S K (Reg.No - 39110111) and 39110292 | 39110111, 39110292 | TRUE |
+| 23 | b.e-cse-batch-123.pdf | ANALYSIS OF RECESSION USING | KARUNAKARAN M (Reg.No - 39110116) | 39110116 | TRUE |
+| 24 | b.e-cse-batch-124.pdf | FRAUD DETECTION IN INSURANCE | S.RAHUL (Reg.No - 39110123) | 39110123 | TRUE |
+| 25 | b.e-cse-batch-125.pdf | | S.SIVA TEJA (Reg.No - 39110124) | 39110124 | TRUE |
+| 26 | b.e-cse-batch-126.pdf | Forecasting Consumer price Index (CPI) values using deep | MUDAVATH ANJAN (Reg.No - 39110130) | 39110130 | TRUE |
+| 27 | b.e-cse-batch-127.pdf | Disease Prediction using Machine Learning and NLP | K.SATHEESH (Reg.No - 39110131) | 39110131 | TRUE |
+| 28 | b.e-cse-batch-128.pdf | PLANT DISEASE DETECTION USING DEEP LEARNING | SACHIN KUMAR YADAV (Reg.No - 39110133) | 39110133 | TRUE |
+| 29 | b.e-cse-batch-129.pdf | "PREVOT - AUTOMATED VIDEO INTERVIEW INTERFACE" | KSHITIJ BARANWAL (Reg.No - 39110086) hereby declare that the Project titled | 39110086 | TRUE |
+| 30 | b.e-cse-batch-130.pdf | "PREDICTING DIABETES USING MACHINE | PRIYANKA DAS (Reg.No - 39110088) | 39110088 | TRUE |
+| 31 | b.e-cse-batch-131.pdf | A NEUROSURGERY NAVIGATION SYSTEM | SANATHA BHARDWAJ (Reg.No - 39110090) | 39110090 | TRUE |
+| 32 | b.e-cse-batch-132.pdf | "DOCTOR'S CONSULTANCY USING ANGULAR JS" | VEMGALI SAIPRIYA (Reg.No - 39110092) | 39110092 | TRUE |
+| 33 | b.e-cse-batch-133.pdf | LUNG CANCER PREDICTION USING DEEP LEARNING | MANISH KUMAR (Reg.No - 39110093) | 39110093 | TRUE |
+| 34 | b.e-cse-batch-134.pdf | "MALWARE CLASSIFICATION USING DEEP | S.ABHINAYA (Reg.No - 39110094) | 39110094 | TRUE |
+| 35 | b.e-cse-batch-135.pdf | DYNAMIC ACCESS CONTROL THROUGH | SUBASH M (Reg.No - 39110095) | 39110095 | TRUE |
+| 36 | b.e-cse-batch-136.pdf | "A SMART CITY TRAFFIC FLOW ANALYSIS WITH MACHINE LEARNING" done | RISHI RANJAN (Reg.No - 39110243), 39110288 | 39110243, 39110288 | TRUE |
+| 37 | b.e-cse-batch-137.pdf | HEART DISEASE PREDICTION USING MACHINE | S.ANIL KUMAR (Reg.No - 39110722) | 39110722 | TRUE |
+| 38 | b.e-cse-batch-138.pdf | NLP | SURAJ P (Reg.No - 39110756) | 39110756 | TRUE |
+| 39 | b.e-cse-batch-139.pdf | "PHISHING URL DETECTION USING DEEP | M RACHAPRABHA (Reg.No - 39110282) declare that the Project Phase-2 Report | 39110282 | TRUE |
+| 40 | b.e-cse-batch-140.pdf | "FAKE NEWS DETECTION ON TWITTER USING HYBRID MODEL | T SAI SANDEEP (Reg.No - 39110289) | 39110289 | TRUE |
+| 41 | b.e-cse-batch-141.pdf | "SIGN LANGUAGE CONVERSION WITH SUBTITLE GENERATION | Jagadeesh (Reg.No - 39110300) and A.VINAY KUMAR (Reg.No - 39110306) who carried out the | 39110300, 39110306 | TRUE |
+| 42 | b.e-cse-batch-142.pdf | "CROWD ANOMALY DETECTION USING DEEP | P SINDHU (Reg.No - 39110302), S.Deepak (39110303) | 39110302, 39110303 | TRUE |
+| 43 | b.e-cse-batch-143.pdf | "Traffic Prediction on Highway Using Deep Learning" done | Sai Bharath S (Reg.No - 39110313) and S.Sankaran (Reg.No - 39110312) | 39110313, 39110312 | TRUE |
+| 44 | b.e-cse-batch-144.pdf | "Twitter text recognition for image using Deep Learning" done | Muruga Sai Siddana (Reg.No - 39110269) who carried out the Project Phase 2 | 39110269 | TRUE |
+| 45 | b.e-cse-batch-145.pdf | Smart City Crime Prediction and Crime-Free Route | ABHILASH S (Reg.No - 39110298) and HARI M (39110286) | 39110298, 39110286 | TRUE |
+| 46 | b.e-cse-batch-146.pdf | CYBER THREAT DETECTION USING DEEP LEARNING | V.Chaitanya (Reg.No - 39110037) and D.Pavan Sai (Reg.No - 39110038) declare that the Project | 39110037, 39110038 | TRUE |
+| 47 | b.e-cse-batch-147.pdf | MALWARE DETECTION | MONIKA M (Reg.No - 39110039) and S.S.Kishore (Reg.No - 39110042) | 39110039, 39110042 | TRUE |
+| 48 | b.e-cse-batch-148.pdf | ENHANCED FRAUD DETECTION FOR E-COMMERCE | R.S.HARINI (Reg.No - 39110044) | 39110044 | TRUE |
+| 49 | b.e-cse-batch-149.pdf | HEART DISEASE PREDICTION USING NEURAL NETWORK | GAUTAM SHAW (Reg.No - 39110046) and R.Lokesh (Reg.No - 39110047) | 39110046, 39110047 | TRUE |
+| 50 | b.e-cse-batch-150.pdf | Prediction Model for Diabetics based on Trading & | Rajesh K (Reg.No - 39110052) | 39110052 | TRUE |
+| 51 | b.e-cse-batch-151.pdf | Cultural Nudism application from DLRT | MADAN KUMAR (Reg.No - 39110147) | 39110147 | TRUE |
+| 52 | b.e-cse-batch-152.pdf | HEART DISEASE PREDICTION USING DEEP LEARNING | P.PRATHIBHA (Reg.No - 39110148) | 39110148 | TRUE |
+| 53 | b.e-cse-batch-153.pdf | "ARTIFICIAL INTELLIGENCE BASED DETECTION OF BRAIN TUMOR USING | D.VENKATA SUBBA REDDY (Reg.No - 39110149) who carried out the Project Phase-2 Report | 39110149 | TRUE |
+| 54 | b.e-cse-batch-154.pdf | "NOVEL MALWARE PREDICTION" done | V.V.N.S.S.HARSH (Reg.No - 39110150) and M.Pragati Sandhya (Reg.No - 39110156) who carried out the Project | 39110150, 39110156 | TRUE |
+| 55 | b.e-cse-batch-155.pdf | ANOMALY DETECTION OF SMART CITY TRAFFIC USING ML | VISHAL R (Reg.No - 39110157) and P.K.Manish (39110158) | 39110157, 39110158 | TRUE |
+| 56 | b.e-cse-batch-156.pdf | AUTISM DETECTION USING DEEP LEARNING | SAI NIKHIL (Reg.No - 39110729) and D.Santhi Kumari (Reg.No - 39110740) | 39110729, 39110740 | TRUE |
+| 57 | b.e-cse-batch-157.pdf | HIDDEN OBJECTS IDENTIFICATION FOR AUTONOMOUS | PRABASH M (Reg.No - 39110782 ) | 39110782 | TRUE |
+| 58 | b.e-cse-batch-158.pdf | ACCURATE ONLINE FRAUD DETECTION USING A HYBRID SYSTEM | T S S P SANDEEP (Reg.No - 39110795) | 39110795 | TRUE |
+| 59 | b.e-cse-batch-159.pdf | CYBERBULLYING DETECTION USING NLP | K.Naveen Kumar Reddy (Reg.No - 39110311) and CHINTA KRISHNA Chaitanya (Reg.No - | 39110311 | TRUE |
+| 60 | b.e-cse-batch-160.pdf | "NOVELS IN UPLODING" | SWATHIA A (Reg.No - 39110011) | 39110011 | TRUE |
+| 61 | b.e-cse-batch-161.pdf | STOCK PRICE PREDICTION USING DL | KANITHA SHREE (Reg.No - 39110022) and A.Jeeva (39110025) | 39110022, 39110025 | TRUE |
+| 62 | b.e-cse-batch-162.pdf | Detecting Disease in Plants using Image Processing | P KAVITHA (Reg.No - 39110027) | 39110027 | TRUE |
+| 63 | b.e-cse-batch-163.pdf | "QR LENS ENCOUNTERING USING IMAGE ANALYSIS | T. V.Krishna (Reg.No - 39110034) | 39110034 | TRUE |
+| 64 | b.e-cse-batch-164.pdf | "EMOTION DETECTION USING NLP | P.Rathnam (Reg.No - 39110036) | 39110036 | TRUE |
+| 65 | b.e-cse-batch-165.pdf | "IOT – TRUSTABLE DOCUMENTS USING AWS | N.Harika (Reg.No - 39110125) and N.Monika (Reg.No - 39110126) who carried out the Project | 39110125, 39110126 | TRUE |
+| 66 | b.e-cse-batch-166.pdf | "Authick – An approach to | J. Adithya (Reg.No - 39110128), hereby declare that the Project Phase-2 Report | 39110128 | TRUE |
+| 67 | b.e-cse-batch-167.pdf | "Predicting Crop Yield with Machine Learning and Deep Learning Methods" done | S.RITESH REDDY (Reg.No - 39110160) and G.Sai Praveen (Reg.No - 39110161) who carried out the Project | 39110160, 39110161 | TRUE |
+| 68 | b.e-cse-batch-168.pdf | "DEEP LEARNING FOR PLANT DISEASE | G.Mani Sai Kumar (Reg.No - 39110340) and Yaswanth (39110342) | 39110340, 39110342 | TRUE |
+| 69 | b.e-cse-batch-169.pdf | "DERMATOLOGICAL MANIFESTATIONS SEGMENTATION | DANGA SRI MANJU (Reg.No - 39110234) | 39110234 | TRUE |
+| 70 | b.e-cse-batch-170.pdf | "AUTISM DETECTION USING DEEP LEARNING | R.BALAJI (Reg.No - 39110235) | 39110235 | TRUE |
+| 71 | b.e-cse-batch-171.pdf | "MALWARE CLASSIFICATION USING DEEP LEARNING | PRAVIN (Reg.No - 39110051) | 39110051 | TRUE |
+| 72 | b.e-cse-batch-172.pdf | "COLORIZATION OF BLACK AND WHITE IMAGES USING DEEP | MUTTA SATHYAPRIYA (39110065) | 39110065 | TRUE |
+| 73 | b.e-cse-batch-173.pdf | | S.NITHYA (Reg.No - 39110110) hereby declare that the Project Phase-2 Report entitled | 39110110 | TRUE |
+| 74 | b.e-cse-batch-174.pdf | "PREDICTION OF CROP YIELD USING MACHINE | PRADEEPA M (Reg.No - 39110228) hereby declare that the Project entitled – DEVELOPMENT AND | 39110228 | TRUE |
+| 75 | b.e-cse-batch-175.pdf | "PREDICTION OF CROP YIELD USING MACHINE | KATTA PRANAV (Reg.No - 39110497) | 39110497 | TRUE |
+| 76 | b.e-cse-batch-176.pdf | "SENTIMENT ANALYSIS USING | P.KISHORE (39110547) | 39110547 | TRUE |
+| 77 | b.e-cse-batch-177.pdf | "DIGITAL FORENSICS TOOLKIT | AKASH (Reg.No - 39110017) | 39110017 | TRUE |
+| 78 | b.e-cse-batch-178.pdf | "SOCIAL MEDIA CONTENT DETECTION USING NLP AND MACHINE | KANIKA GUPTA (Reg.No - 39110043) | 39110043 | TRUE |
+| 79 | b.e-cse-batch-179.pdf | "A SMART CAMPUS | ASHWIN PRABHU (Reg.No - 39110045), 39110051 | 39110045, 39110051 | TRUE |
+| 80 | b.e-cse-batch-180.pdf | "DISEASE PREDICTION SYSTEM | DEEPTHI M (Reg.No - 39110080) | 39110080 | TRUE |
+| 81 | b.e-cse-batch-181.pdf | DIGITAL SUMMARIZATION OF PODCASTS | G.Sathvik Sri Harsha (Reg.No - 39110081) | 39110081 | TRUE |
+| 82 | b.e-cse-batch-182.pdf | "REAL TIME MULTILINGUAL TRANSLATION USING MACHINE | SINDHU SREE (Reg.No - 39110082), 39110101 | 39110082, 39110101 | TRUE |
+| 83 | b.e-cse-batch-183.pdf | "REAL TIME MULTIPART OCR | ARUNU.M (Reg.No - 39110087) | 39110087 | TRUE |
+| 84 | b.e-cse-batch-184.pdf | "REAL TIME MULTIPAGE DOCUMENT OCR FOR MOBILE | PRAGATHI S (Reg.No - 39110089) | 39110089 | TRUE |
+| 85 | b.e-cse-batch-185.pdf | "TEXT-TO-SPEECH SYNTHESIS FOR VOICE ASSISTANTS | ANURAG KUMAR (Reg.No - 39110098) | 39110098 | TRUE |
+| 86 | b.e-cse-batch-186.pdf | REAL-TIME MULTIPLE DOCUMNET OCR FOR MOBILE | M.SUDHAKAR (Reg.No - 39110099) | 39110099 | TRUE |
+| 87 | b.e-cse-batch-187.pdf | ASSESSING THE RELIABILITY OF | SUBASH (Reg.No - 39110008) and VYKASAH ANAND (Reg.No - 39110486) who carried out | 39110008, 39110486 | TRUE |
+| 88 | b.e-cse-batch-188.pdf | "MEDICAL CHATBOT SYSTEM FOR SYMPTOMATIC SCREENING | SANTHOSH M (Reg.No - 39110010) | 39110010 | TRUE |
+| 89 | b.e-cse-batch-189.pdf | "EMOTIONAL ANALYSIS FROM SPEECH USING CONVOLUTIONAL | NAVEEN K (Reg.No - 39110016) and Surya (Reg.No - 39110099) who carried out the | 39110016, 39110099 | TRUE |
+| 90 | b.e-cse-batch-190.pdf | DETECTING FAKE ACCOUNTS ON | LITTLE BIYA (Reg.No - 39110048) | 39110048 | TRUE |
+| 91 | b.e-cse-batch-191.pdf | "TEXT DOCUMENT ANALYSER USING NATURAL LANGUAGE | S.RAKESH (Reg.No - 39110050) | 39110050 | TRUE |
+| 92 | b.e-cse-batch-192.pdf | "NEWS RECOMMENDATION SYSTEM WITH | M.ASHWIN (Reg.No - 39110053) | 39110053 | TRUE |
+| 93 | b.e-cse-batch-193.pdf | "ReadinggGesture base Application Interaction on head | Bhavya R (Reg.No - 39110049), hereby declare that the Project Phase-2 | 39110049 | TRUE |
+| 94 | b.e-cse-batch-194.pdf | "SMART WATER CONSERVATION AND LEAKAGE DETECTION | ADITYA R (Reg.No - 39110061) | 39110061 | TRUE |
+| 95 | b.e-cse-batch-195.pdf | "FARM MANAGEMENT SYSTEM USING ML AND IOT | V.Sai Kumar (Reg.No - 39110063) and N.Ajay Kumar (Reg.No - 39110064) | 39110063, 39110064 | TRUE |
+| 96 | b.e-cse-batch-196.pdf | "Sign Language Translation to WebRTC Application" done | S.Gangadhar Chatkali (Reg.No - 39110202) hereby declare that the project Phase- | 39110202 | TRUE |
+| 97 | b.e-cse-batch-197.pdf | | SATHWIK G (Reg.No - 39110029) | 39110029 | TRUE |
+| 98 | b.e-cse-batch-198.pdf | "SMART HELMETS" | R.BHARATH (Reg.No - 39110040) | 39110040 | TRUE |
+| 99 | b.e-cse-batch-199.pdf | "MALWARE DETECTION AND ANALYSIS USING MACHINE | G.Manoj Kumar (Reg.No - 39110094), hereby declare that the Project Phase-2 | 39110094 | TRUE |
+| 100 | b.e-cse-batch-200.pdf | "HUMAN ACTIVITY RECOGNITION USING DEEP LEARNING USING | A.HARSHAVARDHAN (Reg.No - 39110085) hereby declare that the Project Phase-2 entitled "HUMAN | 39110085 | TRUE |
+| 101 | b.e-cse-batch-201.pdf | "REAL TIME FOOD CLASSIFICATION USING DISTRIBUTED | DINESH (Reg.No - 39110839) | 39110839 | TRUE |
+| 102 | b.e-cse-batch-202.pdf | BOOK RECOMMENDATION SYSTEM" done | RAVISEETI GOWTHAM (Reg.No - 39110846) | 39110846 | TRUE |
+| 103 | b.e-cse-batch-203.pdf | "FRAUD DETECTION ON CREDIT | S.PAVAN SAI (Reg.No - 39110874) 39110874 | 39110874 | TRUE |
+| 104 | b.e-cse-batch-204.pdf | | G.Mani Teja (Reg.No - 39110875) | 39110875 | TRUE |
+| 105 | b.e-cse-batch-205.pdf | | SHAYAMBALA RETHNAM (Reg.No - 39110946) | 39110946 | TRUE |
+| 106 | b.e-cse-batch-206.pdf | "REVIEWS USING SENTIMENTAL ANALYSIS" done | NIKHIL (Reg.No - 39110290) | 39110290 | TRUE |
+| 107 | b.e-cse-batch-207.pdf | PREDICTING STUDENT'S ACADEMIC PERFORMANCE IN COLLEGE | ABHAY KUMAR (Reg.No - 39110054) | 39110054 | TRUE |
+| 108 | b.e-cse-batch-208.pdf | "SMART HEALTHCARE MONITORING USING ARTIFICIAL | K.SAIKUMAR (Reg.No - 39110055) | 39110055 | TRUE |
+| 109 | b.e-cse-batch-209.pdf | "IDENTIFYING HANDWRITTEN LETTERS WITH DEEP | K.UDAY SAI (Reg.No - 39110057), 39110059 | 39110057, 39110059 | TRUE |
+| 110 | b.e-cse-batch-210.pdf | "PLAGIARISM DETECTION SYSTEM | DEEPIKA (39110103) | 39110103 | TRUE |
+| 111 | b.e-cse-batch-211.pdf | "DEEP LEARNING FOR HUMAN POSE ANALYSIS" | D.J.V.S.SAI BABA (Reg.No - 39110104) | 39110104 | TRUE |
+| 112 | b.e-cse-batch-212.pdf | "FALLS SMA DETECTION AND FILTERING | KOUNDINYA Raga Sai Manikanta (Reg.No - 39110505) | 39110505 | TRUE |
+| 113 | b.e-cse-batch-213.pdf | "DEEP LEARNING FOR HUMAN BEHAVIOUR RECOGNITION | KANSA (Reg.No - 39110506) | 39110506 | TRUE |
+| 114 | b.e-cse-batch-214.pdf | "DEEP LEARNING MODEL FOR CROP YIELD PREDICTION | AKASH CHOUDHARY (Reg.No - 39110541) | 39110541 | TRUE |
+| 115 | b.e-cse-batch-215.pdf | "ATTENDANCE REGISTRATION USING FACIAL RECOGNITION | UTKIRI M (Reg.No - 39110017) | 39110017 | TRUE |
+| 116 | b.e-cse-batch-216.pdf | "PREDICTION OF HEART DISEASE WITH MACHINE LEARNING" | Y.B.D.A.NAGA PAVAN (Reg.No - 39110019) | 39110019 | TRUE |
+| 117 | b.e-cse-batch-217.pdf | "AUTOMATIC NUMBER PLATE RECOGNITION FOR SMART CITY" done | BHAVANI S (Reg.No - 39110023) | 39110023 | TRUE |
+| 118 | b.e-cse-batch-218.pdf | "PREDICTION OF MODERNISED LOAN APPROVAL | K.ROHINI (Reg.No - 39110008) who carried out the Project Phase-2 entitled | 39110008 | TRUE |
+| 119 | b.e-cse-batch-219.pdf | "AUTOMATIC DATA LABELING USING DEEP | P.K.SAI (Reg.No - 39110013) and P.VAMSHI (Reg.No - 39110014) who carried | 39110013, 39110014 | TRUE |
+| 120 | b.e-cse-batch-220.pdf | "SPAM EMAIL CLASSIFICATION | SAIKIRAN R (Reg.No - 39110024) | 39110024 | TRUE |
+| 121 | b.e-cse-batch-221.pdf | "GPS ENABLED VIRTUAL TEMPLE TOUR" under my | HARI VISU V K (Reg.No - 39110030) | 39110030 | TRUE |
+| 122 | b.e-cse-batch-222.pdf | "WEB PAGE CLASSIFICATION USING MACHINE LEARNING | P.KARTHIK (Reg.No - 39110033) and K.BRUNDHA (Reg.No - 39110037) who carried | 39110033, 39110037 | TRUE |
+| 123 | b.e-cse-batch-223.pdf | "SENTIMENT ANALYSIS OF TWEETS ON | DINESH CHANDRA (Reg.No - 39110049) and K.NIKHIL (39110047 ) | 39110049, 39110047 | TRUE |
+| 124 | b.e-cse-batch-224.pdf | A LITERATURE REVIEW ON ANDROID MOBILE MALWARE | NIMALAN S K (Reg.No - 39110060) | 39110060 | TRUE |
+| 125 | b.e-cse-batch-225.pdf | "CANCER PREDICTION USING MACHINE | SHIVA JAYAN (Reg.No - 39110062) | 39110062 | TRUE |
+| 126 | b.e-cse-batch-226.pdf | "FOOD CLASSIFICATION USING | Y.S.S.N.SANTHOSH (39110074) | 39110074 | TRUE |
+| 127 | b.e-cse-batch-227.pdf | "CREATING A TOKEN SUPPLY CHAIN MANAGEMENT | V V V N V S.RAMESH (Reg.No - 39110083) | 39110083 | TRUE |
+| 128 | b.e-cse-batch-228.pdf | "TO DETECT SPOOFED IMAGES USING DEEP | AKHIL REDDY (Reg.No - 39110091) 39110091 | 39110091 | TRUE |
+| 129 | b.e-cse-batch-229.pdf | "PLANT DISEASE DETECTION USING DEEP LEARNING | M.SUDHAKAR (Reg.No - 39110099) hereby declare that the Project titled | 39110099 | TRUE |
+| 130 | b.e-cse-batch-230.pdf | "IMPROVING THE SUPPLY CHAIN MANAGEMENT IN INDIAN | S.SURIYA (Reg.No - 39110068) and MAMIDHENI MADHAVI (Reg.No - 39110762) who carried out the | 39110068, 39110762 | TRUE |
+| 131 | b.e-cse-batch-231.pdf | "STOCK PREDICTION USING MACHINE LEARNING WITH | S.PRAVEEN (Reg.No - 39110100) | 39110100 | TRUE |
+| 132 | b.e-cse-batch-232.pdf | "RECOMMENDATION SYSTEM FOR ONLINE | S.VARSHA (Reg.No - 39110115) | 39110115 | TRUE |
+| 133 | b.e-cse-batch-233.pdf | DATA SECURITY AND PRIVACY | Pavan (Reg.No - 39110079) and Bhana Bharadwaj (39110762) who carried out the | 39110079, 39110762 | TRUE |
+| 134 | b.e-cse-batch-234.pdf | "PREDICTION OF HEALTH ASSESSMENT FOR LITHIUM-ION | NAVEEN KUMAR (Reg.No - 39110084) | 39110084 | TRUE |
+| 135 | b.e-cse-batch-235.pdf | "MALARIA DETECTION USING | PRAVEEN KUMAR (Reg.No - 39110086) | 39110086 | TRUE |
+| 136 | b.e-cse-batch-236.pdf | "WEED AND DIVERSE CROP COLORIZATION USING DEEP | G.RITESH REDDY (Reg.No - 39110101) | 39110101 | TRUE |
+| 137 | b.e-cse-batch-237.pdf | "SIGN LANGUAGE TO TEXT CONVERSION USING DEEP | KARAN KUMAR (Reg.No - 39110102) who carried out the Project Phase-2 | 39110102 | TRUE |
+| 138 | b.e-cse-batch-238.pdf | "ML BASED MEDICINE INVENTORY MANAGEMENT | PREETHAM (Reg.No - 39110105) | 39110105 | TRUE |
+| 139 | b.e-cse-batch-239.pdf | "UNDERWATER | K.KALYANIVAN (Reg.No - 37110486) and PENNAMMA.HEMASAGAR (OC) | 37110486 | TRUE |
+| 140 | b.e-cse-batch-240.pdf | | S.NAVEEN KUMAR (Reg.No - 39110112) hereby declare that the Project Phase-2 Report entitled | 39110112 | TRUE |
+| 141 | b.e-cse-batch-241.pdf | | V.SRINITHI (Reg.No - 39110113) | 39110113 | TRUE |
+| 142 | b.e-cse-batch-242.pdf | AUTISM SPECTRUM DISORDER DETECTION USING | KEERTHIRAJ BHARDWAJ (Reg.No - 39110499) | 39110499 | TRUE |
+| 143 | b.e-cse-batch-243.pdf | "VEHICLE DETECTION USING MACHINE LEARNING | HARI VISHNU V K (Reg.No - 39110030) | 39110030 | TRUE |
+| 144 | b.e-cse-batch-244.pdf | "REAL TIME FOOD CLASSIFICATION USING DISTRIBUTED | DINESH (Reg.No - 39110839) | 39110839 | TRUE |
+| 145 | b.e-cse-batch-245.pdf | "TEXT-TO-SPEECH SYNTHESIS FOR VOICE ASSISTANTS | ANURAG KUMAR (Reg.No - 39110098) | 39110098 | TRUE |
+| 146 | b.e-cse-batch-246.pdf | "REAL-TIME MULTIPLE DOCUMNET OCR FOR MOBILE | M.SUDHAKAR (Reg.No - 39110099) | 39110099 | TRUE |
+| 147 | b.e-cse-batch-247.pdf | "READINGGGESTURE BASE APPLICATION INTERACTION ON HEAD | Bhavya R (Reg.No - 39110049) | 39110049 | TRUE |
+| 148 | b.e-cse-batch-248.pdf | "SMART WATER CONSERVATION AND LEAKAGE DETECTION | ADITYA R (Reg.No - 39110061) | 39110061 | TRUE |
+| 149 | b.e-cse-batch-249.pdf | "FARM MANAGEMENT SYSTEM USING ML AND IOT | V.Sai Kumar (Reg.No - 39110063) and N.Ajay Kumar (Reg.No - 39110064) | 39110063, 39110064 | TRUE |
+| 150 | b.e-cse-batch-250.pdf | "SIGN LANGUAGE TRANSLATION TO WEBRTC APPLICATION" done | S.Gangadhar Chatkali (Reg.No - 39110202) | 39110202 | TRUE |
+
+---
+
+## Contributing
+
+As an outside member, I've compiled these reports for reference and research purposes. If you have additional publicly available reports from the same period that you believe would be valuable additions, please consider reaching out.
+
+Email:- sameerreddy213@gmail.com
+---
+
+## Disclaimer
+
+This repository is maintained by an independent third party and is not affiliated with Sathyabama Institute of Science and Technology. The content herein is for informational and educational purposes, reflecting publicly available data at the time of collection.
